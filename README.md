@@ -34,7 +34,3 @@ A sleek, customizable password generator built with **React** and **Vite**. Easi
 git clone https://github.com/your-username/password-generator.git
 cd password-generator
 
-### 2. Install dependencies
-
-npm install
-

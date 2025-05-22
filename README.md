@@ -1,4 +1,4 @@
-# 🔐 React Password Generator
+# 🔐 Password Generator
 
 A sleek, customizable password generator built with **React** and **Vite**. Easily generate strong, secure passwords with user-selected criteria like length, character types, and symbols.
 
@@ -33,3 +33,8 @@ A sleek, customizable password generator built with **React** and **Vite**. Easi
 ```bash
 git clone https://github.com/your-username/password-generator.git
 cd password-generator
+
+### 2. Install dependencies
+
+npm install
+

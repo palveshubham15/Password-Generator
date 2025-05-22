@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e74624d5-1cf6-48d1-a32a-4dd83438473f)# 🔐 React Password Generator
+# 🔐 React Password Generator
 
 A sleek, customizable password generator built with **React** and **Vite**. Easily generate strong, secure passwords with user-selected criteria like length, character types, and symbols.
 
@@ -22,7 +22,7 @@ A sleek, customizable password generator built with **React** and **Vite**. Easi
 - JavaScript
 
 ## 📸 Preview
-
+![image](https://github.com/user-attachments/assets/e74624d5-1cf6-48d1-a32a-4dd83438473f)
 
 [🔗 Live Demo](https://passwordgenrator15.netlify.app/) 
 
